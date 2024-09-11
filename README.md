@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debasis Sahoo</h1>
-<h3 align="center">A learner and web developer</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sisabed&color=brightgreen&label=Profile%20views&style=plastic"/></p>
 
